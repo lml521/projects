@@ -2,7 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
-    <p>2 1 3 2 1 2 54 d f d f 3 14</p>
+    <p>2 1 3 2 1 2 2332 54 d f d f 3 14</p>
   </div>
 </template>
 
